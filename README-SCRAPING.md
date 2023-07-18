@@ -1,5 +1,7 @@
 # Apify scraper - DMP clients #
 
+Create Apify actor which will load clients from DMP website and converts them to JSON.
+
 ### Technologies ###
 * Apify (https://apify.com/) and Crawlee (https://crawlee.dev/docs/quick-start)
     * Use crawler of your choice - Cheerio, Puppeteer or Playwright
