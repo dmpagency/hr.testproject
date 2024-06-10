@@ -31,5 +31,5 @@ Create Apify actor which will load clients from DMP website and converts them to
 ### What we want to see ###
 * Source code (in GIT) - Please create your own GIT repository on GitHub (or Bitbucket or somewhere else), commit the code there and send us the repository.
 
-If you have any questions, please contact us on e-mail tereza.vackarova@dmpublishing.cz. However, everything should be clear :)
+If you have any questions, please contact us on e-mail hr@dmpagency.cz. However, everything should be clear :)
  
