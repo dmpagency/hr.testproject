@@ -1,5 +1,7 @@
 # Apify scraper - DMP clients #
 
+**Do this only if you are asked to do Apify scraper. Usually you are supposed to do only RSS reader.**
+
 Create Apify actor which will load clients from DMP website and converts them to JSON.
 
 ### Technologies ###
